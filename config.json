@@ -1,0 +1,12 @@
+{
+    "token": "NTQ4MjQyMTc2MDMxNTg4MzY0.D1W8Fw.QgBfBzWcqPfUmo5s6V6KVvEgOiE",
+    "mailGuildId": "549537175243587584",
+    "mainGuildId": "522153483831345165",
+    "logChannelId": "549610507477188609",
+    "newThreadCategoryId": "549537175243587585",
+    
+    "closeMessage": "Talebiniz yetkililer tarafından kapatıldı. Lütfen bir cevap mesajı yazmayınız.",
+  
+    "status": "Canlı destek almak için bota özel mesaj yazınız.",
+    "responseMessage": "Destek talebiniz yazdığınız mesaj ile yetkili ekimize iletilmiştir. En kısa sürede bir yetkili size yardımcı olacaktır."
+  }
